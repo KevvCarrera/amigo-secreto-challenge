@@ -19,3 +19,5 @@ Esta aplicación web permite a los usuarios ingresar nombres de amigos en una li
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
+
+![Image](https://github.com/user-attachments/assets/407b1900-faf3-4224-8431-593001dff5ca)
